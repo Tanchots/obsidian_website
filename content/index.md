@@ -1,1 +1,1 @@
-title: "Thought Fragments"
+---title: "Thought Fragments"---
