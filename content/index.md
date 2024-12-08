@@ -1,1 +1,3 @@
+---
 title: "Thought Fragments"
+---
